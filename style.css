@@ -1,0 +1,37 @@
+<style>
+ 	body{
+ 		background-color: ;
+          	}
+      div{
+      	text-align: center;
+      }
+      #a{
+      	text-align: center;
+      	color: orange;
+      	font-size: 100px;
+        font-style: italic;
+      background-color: red;
+         width:100%;
+         margin-top: 50px;
+      }
+      #ac{
+           margin-left: -10px;
+        margin-top: -330px;
+         position:absolute;
+         width:30%;
+      }
+      #bc{
+        margin-left: 700px;
+        margin-top: -330px;
+        width:30%;
+        position:absolute;
+      }
+       #b{
+        margin-left: 800px;
+        margin-top: -350px;
+      }
+     #c {
+margin-left: -800px;
+        margin-top: -350px;
+      }
+ </style>
